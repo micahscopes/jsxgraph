@@ -3,7 +3,7 @@
 # build tools
 REQUIREJS=./node_modules/.bin/r.js
 UGLIFYJS=./node_modules/.bin/uglifyjs
-JSDOC2=nodejs ./node_modules/.bin/jsdoc2
+JSDOC2=node ./node_modules/.bin/jsdoc2
 #JSDOC2=nodejs ./node_modules/.bin/jsdoc
 
 LINT=./node_modules/.bin/jslint
